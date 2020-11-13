@@ -1,0 +1,313 @@
+class	word	bases	sequence	linearity	semantic relation
+blend	adhocrat	adhoc aristocrat	AAAAXBBB	linear	time
+blend	ambidancetrous	ambidextrous dance	AAAAXBBBBAAAAA	nonlinear	attribute
+blend	analingus	anal cunnilingus	AAAXBBBBB	linear	loc_part_whole
+blend	aquamation	aqua cremation	AAAABBBBBB	linear	causal
+blend	artveillance	art surveillance	AAABBBBBBBBB	linear	purpose
+blend	athcouture	athletic couture	AAABBBBBBB	linear	purpose
+blend	automatovelociraptor	automatic velociraptor	AAAAAAAOBBBBBBBBBBBB	linear	attribute
+blend	babymooners	baby honeymooners	AAAXBBBBBBB	linear	purpose
+blend	barricage	barricade cage	AAAAAXBBB	linear	attribute
+blend	bigature	big miniature	AAABBBBB	linear	attribute
+blend	bildogsromans	bildungsroman dog	AAAXBXAAAAAAS	nonlinear	topical
+blend	birkini	birqa bikini	XXABBBB	nonlinear	attribute
+blend	bizcations	biz vacation	AAABBBBBBS	linear	purpose
+blend	bizliner	biz cruiseliner	AAABBBBB	linear	purpose
+blend	bitmojis	bit emoji	AAABBBBS	linear	containment
+blend	blaspy	black wasp	AAXBBS	linear	attribute
+blend	blurrealist	blur surreal	AAXXBBBBSSS	linear	attribute
+blend	bookstagrammer	book instagram	AAAABBBBBBBOSS	linear	topical
+blend	bordoodle	border_collie poodle	AAAABBBBB	linear	attribute
+blend	breastaurants	breast restaurant	AXXAXXBBBBBBS	nonlinear	containment
+blend	bridesmates	bridesmaid mate	AAAAAAXXBBS	linear	purpose
+blend	brocialist	bro socialist	AAXBBBBBBB	linear	attribute
+blend	broketose	broke lactose	AAAAABBBB	linear	attribute
+blend	bromosexuality	bro homosexual	AAXBBBBBBBBSSS	linear	attribute
+blend	brosephs	bro joseph	AAXBBBBS	linear	attribute
+blend	brotelier	bro hotelier	AAXBBBBBB	linear	attribute
+blend	bullversary	bull anniversary	AAAABBBBBBB	linear	topical
+blend	cancerchondria	cancer hypochondria	AAAAAABBBBBBBB	linear	topical
+blend	chesticle	chest testicle	AAXXXBBBB	linear	loc_part_whole
+blend	chicksplains	chick explain	AAAAAOBBBBBS	linear	causal
+blend	chimpanzombies	chimpanzee zombies	AAAAAAAXBBBBBB	linear	attribute
+blend	chipster	chicano hipster	AXXBBBBB	linear	attribute
+blend	churchagogues	church synagogues	AAAAAABBBBBBB	linear	attribute
+blend	cinnabark	cinnamon bark	AAAAABBBB	linear	attribute
+blend	clairsentient	clairvoyant sentient	AAAAABBBBBBXX	nonlinear	causal
+blend	cliteracy	clit literacy	AXXXBBBBB	linear	topical
+blend	craftivists	craft activist	AAXAXBBBBBS	nonlinear	causal
+blend	crapberg	crap iceberg	AAAABBBB	linear	containment
+blend	cryptocohn	coin cohn	PPPPPPXXBX	nonlinear	causal
+blend	disemvowelled	bowel vowel	PPPPPBXXXXXSS	nonlinear	cause
+blend	dishrupted	dish disrupted	XXXABBBBBB	nonlinear	topical
+blend	distractibaking	distraction bake	AAAAAAAAABBBSSS	linear	purpose
+blend	drunkalog	drunk dialog	XAAAABBBB	nonlinear	time
+blend	drunkicidal	drunk suicidal	AAAAABBBBBB	linear	time
+blend	econblogging	economy blogging	AAAABBBBSSSS	linear	topical
+blend	eggceptional	egg exception	XAABBBBBBBSS	nonlinear	attribute
+blend	eggcessories	egg accessory	AAABBBBBBSSS	linear	containment
+blend	fandomonium	fandom pandamonium	AXXXAXBBBBB	nonlinear	causal
+blend	fanimatic	fan animation cinematic	AXXBXXXCC	linear	causal
+blend	fanthropologist	fan anthropologist	AXXBBBBBBBBBBBB	linear	topical
+blend	fitfluencers	fit influencer	AAABBBBBBBBS	linear	purpose
+blend	fluba	flute tuba	AAXBB	linear	attribute
+blend	four`easter	four nor`east	AXAXBBBBBSS	nonlinear	other
+blend	frenemesis	friend enemy nemesis	AAXXXXCCCC	linear	attribute
+blend	frumpers	frump jumper	AAXXXBBS	linear	attribute
+blend	fuchsenta	fuchsia magenta	AAAAABBBX	nonlinear	attribute
+blend	galactogogues	galactic synagogue	AAAAAAOBBBBBS	linear	attribute
+blend	gentlepersonly	gentleman person	AAAAAABBBBBBSS	linear	attribute
+blend	glamborgeous	glamour gorgeous	XAAAOXXBBBBB	linear	attribute
+blend	glampground	glamour campground	AAXXBBBBBBB	linear	attribute
+blend	gruxury	grunge luxury	AAXBBBB	linear	attribute
+blend	gymternet	gym internet	AAABBBBBB	linear	loc_part_whole
+blend	hackistocracy	hack aristocracy	AAAABBBBBBBBB	linear	attribute
+blend	hatriotism	hate patriot	AXXBBBBSSS	linear	attribute
+blend	himpathy	him empathy	AAXBBBBB	linear	owner_emp_use
+blend	hoboning	hobo bone	AAXXBSSS	linear	owner_emp_use
+blend	hoejabi	hoe hijabi	XAABBBB	nonlinear	attribute
+blend	hooficuffs	hoof fisticuffs	AAAABBBBBB	linear	attribute
+blend	humailiation	humiliation mail	AAXBXXAASSSS	nonlinear	topical
+blend	innoventor	innovate inventor	XXAAXBBBBB	nonlinear	causal
+blend	instacelebs	instagram celeb	AAAAABBBBBS	linear	loc_part_whole
+blend	instapays	instant pay	AAAAABBBS	linear	time
+blend	jacuz	jacuzzi recuse	AAXXA	nonlinear	cause
+blend	jetiquette	jet etiquette	AXXBBBBBBB	linear	loc_part_whole
+blend	jobbymoons	job honeymoon	AXAOBBBBBS	nonlinear	purpose
+blend	karligraphy	karl calligraphy	AXAXBBBBBBB	nonlinear	owner_emp_use
+blend	kibathroom	kitchen bathroom	AABBBBBBBB	linear	attribute
+blend	kidfluencer	kid influencer	AAABBBBBBBB	linear	attribute
+blend	kwaussie	kiwi aussie	AABBBBBB	linear	attribute
+blend	kyshadow	kylie eyeshadow	AXBBBBBB	linear	owner_emp_use
+blend	magpiety	magpie piety	AAAXXXBB	linear	cause
+blend	malestream	male mainstream	XXAABBBBBB	nonlinear	causal
+blend	manumotive	manual motive	AAAABBBBBB	linear	causal
+blend	masculennial	masculine millennial	XAAAAXBBBBBB	nonlinear	attribute
+blend	mispers	missing person	AAABBBS	linear	owner_emp_use
+blend	motorvate	motor motivate	XXXAABBBB	nonlinear	topical
+blend	normible	normal terrible	AAAABBBB	linear	attribute
+blend	nowcasters	now forecast	AAABBBBSSS	linear	time
+blend	occasiotarian	occasio vegetarian	AAAAAAABBBBBB	linear	time
+blend	orcaestraits	orca orchestrate straits	XXXABXXXXCCC	nonlinear	loc_part_whole
+blend	panities	panty vanity	AXXBBSSS	linear	loc_part_whole
+blend	pathobigot	pathological bigot	AAAAABBBBB	linear	attribute
+blend	pawrent	paw parent	XXABBBB	nonlinear	owner_emp_use
+blend	pawternity	paw paternity	XXABBBBBBB	nonlinear	attribute
+blend	paytriarchy	pay patriarchy	XXABBBBBBBB	nonlinear	causal
+blend	perfidection	perfidious perfection	XXXXAABBBBBB	nonlinear	attribute
+blend	plastigoop	plastic goop	AAAAAABBBB	linear	containment
+blend	podfasters	podcast fast	AAABXXXSSS	nonlinear	topical
+blend	poptronic	pop electronic	AAABBBBBB	linear	attribute
+blend	prayformances	pray performance	XXAABBBBBBBBS	nonlinear	topical
+blend	pregret	regret	PXXAAAA	linear	time
+blend	procrastibaker	procrastinate bake	AAAAAAAAABBBSS	linear	purpose
+blend	procrasticleaning	procrastinate clean	AAAAAAAAABBBBBSSS	linear	purpose
+blend	puptials	puppy nuptial	AXXBBBBS	linear	containment
+blend	rockconteur	rock raconteur	XAAABBBBBBB	nonlinear	topical
+blend	roofalanches	roof avalanche	AAAABBBBBBBS	linear	attribute
+blend	sceeves	scarf sleeve	AABBBBS	linear	attribute
+blend	sciencuality	science sensual	XAAXXABBBSSS	nonlinear	topical
+blend	shaleionaires	shale millionaire	AAAXABBBBBBBS	nonlinear	cause
+blend	shesteading	she seastead	XAXBBBBBSSS	nonlinear	causal
+blend	shoptics	shop optic	AAXXBBBS	linear	loc_part_whole
+blend	skouzers	skirt trouser	AABBOBBS	linear	attribute
+blend	slowbalization	slow globalization	AXXABBBBBBBBBB	nonlinear	attribute
+blend	snacktivities	snack activity	AAXXABBBBBSSS	nonlinear	purpose
+blend	snaketivity	snake nativity	AXXAABBBBBB	nonlinear	attribute
+blend	snarcasm	snark sarcasm	XAXXBBBB	nonlinear	attribute
+blend	snatchphrase	snatch catchphrase	AAXXXXBBBBBB	linear	loc_part_whole
+blend	snidbits	snide tidbit	AAXXBBBS	linear	attribute
+blend	snowgie	snow snuggie	XXAABBB	nonlinear	containment
+blend	soulappella	soul a_cappella	AAAABBBBBBB	linear	attribute
+blend	stacktician	stack tactician	AXXXABBBBBB	nonlinear	purpose
+blend	suberogatory	sub supererogatory	XXABBBBBBBBB	nonlinear	attribute
+blend	techceleration	tech acceleration	AAXABBBBBBBBBB	nonlinear	causal
+blend	techlash	tech backlash	AAXABBBB	nonlinear	causal
+blend	techsploitation	tech exploitation	AXAAOBBBBBBBBBB	nonlinear	causal
+blend	thrupple	three couple	AAABOBBB	linear	containment
+blend	tixels	tactile pixel	ABBBBS	linear	purpose
+blend	tomacco	tomato tobacco	XXAXBBX	nonlinear	attribute
+blend	tradwife	traditional wife	AAAABBBB	linear	attribute
+blend	transface	transgender blackface	AAAAABBBB	linear	owner_emp_use
+blend	translaptations	translation adaptation	AAAAAAXBBXXXXXS	nonlinear	attribute
+blend	treecycling	tree recycle	AXXABBBBSSS	nonlinear	objective
+blend	trimmigrants	trim immigrants	AAXXBBBBBBBB	linear	owner_emp_use
+blend	twunks	twink hunk	AABXXS	nonlinear	attribute
+blend	undeadpan	undead deadpan	AAXXXXBBB	linear	owner_emp_use
+blend	undogly	ungodly dog	AAXXXAA	nonlinear	attribute
+blend	vajacial	vagina facial	AAOBBBBB	linear	loc_part_whole
+blend	velfie	video selfie	ABBBBB	linear	loc_part_whole
+blend	verminfluencers	vermin influencer	AAAAXXBBBBBBBBS	linear	topical
+blend	weekiversary	week anniversary	AAAABBBBBBBB	linear	time
+blend	womanfold	woman manifold	AAXXXBBBB	linear	attribute
+blend	womanhole	woman manhole	AAXXXBBBB	linear	purpose
+transparent compound	batchcode	batch code	AAAAABBBB	linear	time
+transparent compound	blockholding	block hold	AAAAABBBBSSS	linear	owner_emp_use
+transparent compound	bloodfruit	blood fruit	AAAAABBBBB	linear	attribute
+transparent compound	bodyhacking	body hack	AAAABBBBSSS	linear	cause
+transparent compound	bodysnatched	body snatch	AAAABBBBBBSS	linear	cause
+transparent compound	bowperson	bow person	AAABBBBBB	linear	loc_part_whole
+transparent compound	bubblesong	bubble song	AAAAAABBBB	linear	containment
+transparent compound	buckstopping	buck stop	AAAABBBBSSSS	linear	objective
+transparent compound	buttonsize	button size	AAAAAABBBB	linear	complement
+transparent compound	camgirl	cam girl	AAABBBB	linear	causal
+transparent compound	catsit	cat sit	AAABBB	linear	objective
+transparent compound	chatbox	chat box	AAAABBB	linear	containment
+transparent compound	colorimetric	color metric	AAAAAOBBBBBB	linear	other
+transparent compound	cropmarks	crop mark	AAAABBBBS	linear	loc_part_whole
+transparent compound	cryptoart	crypto art	AAAAAABBB	linear	loc_part_whole
+transparent compound	cryptocoin	crypto coin	AAAAAABBBB	linear	loc_part_whole
+transparent compound	cryptocommunity	crypto community	AAAAAABBBBBBBBB	linear	loc_part_whole
+transparent compound	cryptoheists	crypto heist	AAAAAABBBBBS	linear	causal
+transparent compound	cryptomining	crypto mine	AAAAAABBBBBB	linear	objective
+transparent compound	cryptotechnology	crypto technology	AAAAAABBBBBBBBBB	linear	attribute
+transparent compound	cybercounterattack	cyber counter attack	AAAAABBBBBBBBBBBBB	linear	causal
+transparent compound	cyberdefenders	cyber defender	AAAAABBBBBBBBS	linear	purpose
+transparent compound	cyberdoctrine	cyber doctrine	AAAAABBBBBBBB	linear	topical
+transparent compound	cyberfield	cyber field	AAAAABBBBB	linear	loc_part_whole
+transparent compound	cyberfighters	cyber fighter	AAAAABBBBBBBS	linear	purpose
+transparent compound	cybergiggle	cyber giggle	AAAAABBBBBB	linear	attribute
+transparent compound	cyberhit	cyber hit	AAAAABBB	linear	causal
+transparent compound	cyberinterference	cyber interference	AAAAABBBBBBBBBBBB	linear	causal
+transparent compound	cyberinvasion	cyber invasion	AAAAABBBBBBBB	linear	causal
+transparent compound	cyberlibel	cyber libel	AAAAABBBBB	linear	loc_part_whole
+transparent compound	cyberlover	cyber lover	AAAAABBBBB	linear	loc_part_whole
+transparent compound	cybermanipulation	cyber manipulation	AAAAABBBBBBBBBBBB	linear	causal
+transparent compound	cybermercenaries	cyber mercenary	AAAAABBBBBBBBBBS	linear	causal
+transparent compound	cybersensation	cyber sensation	AAAAABBBBBBBBB	linear	loc_part_whole
+transparent compound	cyberskirmishing	cyber skirmish	AAAAABBBBBBBBSSS	linear	loc_part_whole
+transparent compound	cyberspooks	cyber spook	AAAAABBBBBS	linear	loc_part_whole
+transparent compound	daggertooth	dagger tooth	AAAAAABBBBB	linear	attribute
+transparent compound	dramatotherapy	drama therapy	AAAAAOOBBBBBBB	linear	causal
+transparent compound	fireleg	fire leg	AAAABBB	linear	attribute
+transparent compound	flipback	flip back	AAAABBBB	linear	objective
+transparent compound	frackpads	frack pad	AAAAABBBS	linear	loc_part_whole
+transparent compound	frogwomen	frog women	AAAABBBBB	linear	attribute
+transparent compound	furgirl	fur girl	AAABBBB	linear	attribute
+transparent compound	garagerock	garage rock	AAAAAABBBB	linear	loc_part_whole
+transparent compound	glowspot	glow spot	AAAABBBB	linear	attribute
+transparent compound	grangelands	grange land	AAAAAABBBBS	linear	loc_part_whole
+transparent compound	greybrick	grey brick	AAAABBBBB	linear	attribute
+transparent compound	grumblebark	grumble bark	AAAAAAABBBB	linear	attribute
+transparent compound	guideword	guide word	AAAAABBBB	linear	purpose
+transparent compound	halfripe	half ripe	AAAABBBB	linear	attribute
+transparent compound	happymaking	happy make	AAAAABBBBBB	linear	objective
+transparent compound	hellspace	hell space	AAAABBBBB	linear	attribute
+transparent compound	hillwalker	hill walker	AAAABBBBBB	linear	topical
+transparent compound	hotwords	hot word	AAABBBBS	linear	attribute
+transparent compound	houseshoes	house shoe	AAAAABBBBS	linear	loc_part_whole
+transparent compound	icechairing	ice chair	AAABBBBBSSS	linear	loc_part_whole
+transparent compound	jailworthy	jail worthy	AAAABBBBBB	linear	causal
+transparent compound	jerkbait	jerk bait	AAAABBBB	linear	purpose
+transparent compound	kinkeeping	kin keep	AAABBBBSSS	linear	objective
+transparent compound	kitbashing	kit bash	AAABBBBSSS	linear	causal
+transparent compound	kronoseismology	krono seismology	AAAAABBBBBBBBBB	linear	topical
+transparent compound	lasercutting	laser cut	AAAAABBBSSSS	linear	causal
+transparent compound	laysoccerperson	layperson soccer	AAABBBBBBAAAAAA	nonlinear	topical
+transparent compound	lightsmiths	light smith	AAAAABBBBBS	linear	causal
+transparent compound	lockpad	lock pad	AAAABBB	linear	purpose
+transparent compound	mazegoers	maze goer	AAAABBBBS	linear	topical
+transparent compound	mealbag	meal bag	AAAABBB	linear	containment
+transparent compound	mememaking	meme make	AAAABBBBBB	linear	objective
+transparent compound	misdemeanorland	misdemeanor land	AAAAAAAAAAABBBB	linear	loc_part_whole
+transparent compound	mouthpaste	mouth paste	AAAAABBBBB	linear	cause
+transparent compound	mushpie	mush pie	AAAABBB	linear	containment
+transparent compound	mythorealism	myth realism	AAAAABBBBBBB	linear	containment
+transparent compound	napmobile	nap mobile	AAABBBBBB	linear	loc_part_whole
+transparent compound	narcobiography	narco biography	AAAAABBBBBBBBB	linear	topical
+transparent compound	neckbeards	neck beard	AAAAAAAAAS	linear	loc_part_whole
+transparent compound	neurocosmetology	neuro cosmetology	AAAAABBBBBBBBBBB	linear	cause
+transparent compound	pantryload	pantry load	AAAAAABBBB	linear	loc_part_whole
+transparent compound	phonebanking	phone bank	AAAAABBBBSSS	linear	other
+transparent compound	pinbody	pin body	AAABBBB	linear	topical
+transparent compound	pothounds	pot hound	AAABBBBBS	linear	attribute
+transparent compound	powermodels	power model	AAAAABBBBBS	linear	cause
+transparent compound	psychedollars	psyche dollar	AAAAAABBBBBBS	linear	attribute
+transparent compound	pullquote	pull quote	AAAABBBBB	linear	purpose
+transparent compound	quizmaker	quiz maker	AAAABBBBB	linear	objective
+transparent compound	rallygoing	rally go	AAAAABBSSS	linear	objective
+transparent compound	ropemaster	rope master	AAAABBBBBB	linear	topical
+transparent compound	rulebreaker	rule breaker	AAAABBBBBBB	linear	objective
+transparent compound	scatterfocus	scatter focus	AAAAAAABBBBB	linear	objective
+transparent compound	schoolstrike	school strike	AAAAAABBBBBB	linear	topical
+transparent compound	sextech	sex tech	AAABBBB	linear	purpose
+transparent compound	shadowwalker	shadow walker	AAAAAABBBBBB	linear	loc_part_whole
+transparent compound	shirtballs	shirt balls	AAAAABBBBS	linear	containment
+transparent compound	shutterbait	shutter bait	AAAAAAABBBB	linear	purpose
+transparent compound	skirtsuit	skirt suit	AAAAABBBB	linear	attribute
+transparent compound	smartclothes	smart clothes	AAAAABBBBBBB	linear	attribute
+transparent compound	smellwalks	smell walk	AAAAABBBBS	linear	topical
+transparent compound	smokewaves	smoke wave	AAAAABBBBS	linear	containment
+transparent compound	smokewear	smoke wear	AAAAABBBB	linear	causal
+transparent compound	sportswash	sports wash	AAAAAABBBB	linear	causal
+transparent compound	stablecoin	stable coin	AAAAAABBBB	linear	attribute
+transparent compound	starhuggers	star hugger	AAAABBBBBBS	linear	topical
+transparent compound	stickbaits	stick bait	AAAAABBBBS	linear	containment
+transparent compound	stingword	sting word	AAAAABBBB	linear	attribute
+transparent compound	stonebrain	stone brain	AAAAABBBBB	linear	attribute
+transparent compound	storytale	story tale	AAAAABBBB	linear	attribute
+transparent compound	subtweetstorm	subtweet storm	AAAAAAAABBBBB	linear	attribute
+transparent compound	sweatcoin	sweat coin	AAAAABBBB	linear	cause
+transparent compound	swimgloat	swim gloat	AAAABBBBB	linear	attribute
+transparent compound	swirlybird	swirly bird	AAAAAABBBB	linear	attribute
+transparent compound	thinkbucket	think bucket	AAAAABBBBBB	linear	containment
+transparent compound	throneholders	throne holder	AAAAAABBBBBBS	linear	owner_emp_use
+transparent compound	towerblocks	tower block	AAAAABBBBBS	linear	containment
+transparent compound	trashdraft	trash draft	AAAAABBBBB	linear	loc_part_whole
+transparent compound	tunestack	tune stack	AAAABBBBB	linear	containment
+transparent compound	videohomes	video home	AAAAABBBBS	linear	loc_part_whole
+transparent compound	videomicroscope	video microscope	AAAAABBBBBBBBBB	linear	causal
+transparent compound	viewcounts	view count	AAAABBBBBS	linear	other
+transparent compound	webnotebook	web notebook	AAABBBBBBBB	linear	loc_part_whole
+transparent compound	whoremistress	whore mistress	AAAAABBBBBBBB	linear	attribute
+transparent compound	wordvomit	word vomit	AAAABBBBB	linear	attribute
+transparent compound	worldschooling	world school	AAAAABBBBBBSSS	linear	topical
+opaque compound	astrofunk	astro funk	AAAAABBBB	linear	attribute
+opaque compound	bedslaves	bed slave	AAABBBBBS	linear	loc_part_whole
+opaque compound	bookmatched	book match	AAAABBBBBSS	linear	purpose
+opaque compound	cowbaby	cow baby	AAABBBB	linear	complement
+opaque compound	crowdsale	crowd sale	AAAAABBBB	linear	owner_emp_use
+opaque compound	cryptobubble	crypto bubble	AAAAAABBBBBB	linear	containment
+opaque compound	cryptoslang	crypto slang	AAAAAABBBBB	linear	topical
+opaque compound	cryptotulips	crypto tulip	AAAAAABBBBBS	linear	attribute
+opaque compound	cyberbots	cyber bot	AAAAABBBS	linear	loc_part_whole
+opaque compound	cyberdirective	cyber directive	AAAAABBBBBBBBB	linear	loc_part_whole
+opaque compound	cyberfatigue	cyber fatigue	AAAAABBBBBBB	linear	cause
+opaque compound	cybermalfeasance	cyber malfeasance	AAAAABBBBBBBBBBB	linear	loc_part_whole
+opaque compound	cyberoperative	cyber operative	AAAAABBBBBBBBB	linear	loc_part_whole
+opaque compound	cyberpilot	cyber pilot	AAAAABBBBB	linear	attribute
+opaque compound	deathbox	death box	AAAAABBB	linear	containment
+opaque compound	dinoduck	dino duck	AAAABBBB	linear	attribute
+opaque compound	dotplot	dot plot	AAABBBB	linear	containment
+opaque compound	downblousing	down blouse	PPPPAAAAASSS	linear	other
+opaque compound	edgelord	edge lord	AAAABBBB	linear	loc_part_whole
+opaque compound	eldergays	elder gay	AAAAABBBS	linear	attribute
+opaque compound	ethnofictions	ethno fiction	AAAAABBBBBBBS	linear	topical
+opaque compound	ethnonavigation	ethno navigation	AAAAABBBBBBBBBB	linear	cause
+opaque compound	facebar	face bar	AAAABBB	linear	loc_part_whole
+opaque compound	flashcut	flash cut	AAAAABBB	linear	attribute
+opaque compound	forwardboding	forward bode	AAAAAAABBBBBB	linear	time
+opaque compound	funreach	fun reach	AAABBBBB	linear	attribute
+opaque compound	gasbagging	gas bag	AAABBBSSSS	linear	containment
+opaque compound	harpiedoodle	harpie doodle	AAAAAABBBBBB	linear	attribute
+opaque compound	headtheater	head theater	AAAABBBBBBB	linear	loc_part_whole
+opaque compound	hellspring	hell spring	AAAABBBBBB	linear	loc_part_whole
+opaque compound	heteromasculinity	hetero masculinity	AAAAAABBBBBBBBBBB	linear	attribute
+opaque compound	heteropatriarchal	hetero patriarchal	AAAAAABBBBBBBBBSS	linear	cause
+opaque compound	hypebeasts	hype beast	AAAABBBBBS	linear	topical
+opaque compound	junktime	junk time	AAAABBBB	linear	attribute
+opaque compound	kleptotheocracy	klepto theocracy	AAAAAABBBBBBBBB	linear	cause
+opaque compound	looksmaxing	looks max	AAAAABBBSSS	linear	objective
+opaque compound	moonsaulting	moon sault	AAAABBBBBSSS	linear	loc_part_whole
+opaque compound	nothingbuffet	nothing buffet	AAAAAAABBBBBB	linear	containment
+opaque compound	phallocentrist	phallo centrist	AAAAAABBBBBBBB	linear	topical
+opaque compound	piddlebugs	piddle bug	AAAAAABBBS	linear	containment
+opaque compound	pogosnake	pogo snake	AAAABBBBB	linear	purpose
+opaque compound	prochoicelife	pro choice life	PPPAAAAAABBBB	nonlinear	attribute
+opaque compound	rhymeslingers	rhyme slinger	AAAAABBBBBBBS	linear	owner_emp_use
+opaque compound	ridehail	ride hail	AAAABBBB	linear	objective
+opaque compound	shaggydoodles	shaggy doodle	AAAAAABBBBBBS	linear	attribute
+opaque compound	shithole	shit hole	AAAABBBB	linear	containment
+opaque compound	solomoons	solo moon	AAAABBBBS	linear	purpose
+opaque compound	walkbooks	walk book	AAAABBBBS	linear	topical
+opaque compound	wordmills	word mill	AAAABBBBS	linear	purpose
