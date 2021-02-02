@@ -1,0 +1,313 @@
+class	word	bases	sequence	linearity	semantic relation	unilm_segmentation_raw	unilm_segmentation_bpe	segmentation_str
+blend	adhocrat	adhoc aristocrat	AAAAXBBB	linear	time	['▁a', 'd', 'ho', 'cra', 't']	['a', '##d', '##ho', '##cra', '##t']	a ##d ##ho ##cra ##t
+blend	ambidancetrous	ambidextrous dance	AAAAXBBBBAAAAA	nonlinear	attribute	['▁am', 'bi', 'dance', 't', 'rous']	['am', '##bi', '##dance', '##t', '##rous']	am ##bi ##dance ##t ##rous
+blend	analingus	anal cunnilingus	AAAXBBBBB	linear	loc_part_whole	['▁an', 'al', 'ing', 'us']	['an', '##al', '##ing', '##us']	an ##al ##ing ##us
+blend	aquamation	aqua cremation	AAAABBBBBB	linear	causal	['▁a', 'qua', 'm', 'ation']	['a', '##qua', '##m', '##ation']	a ##qua ##m ##ation
+blend	artveillance	art surveillance	AAABBBBBBBBB	linear	purpose	['▁art', 've', 'il', 'lance']	['art', '##ve', '##il', '##lance']	art ##ve ##il ##lance
+blend	athcouture	athletic couture	AAABBBBBBB	linear	purpose	['▁a', 'th', 'c', 'out', 'ure']	['a', '##th', '##c', '##out', '##ure']	a ##th ##c ##out ##ure
+blend	automatovelociraptor	automatic velociraptor	AAAAAAAOBBBBBBBBBBBB	linear	attribute	['▁auto', 'm', 'ato', 've', 'loc', 'ira', 'p', 'tor']	['auto', '##m', '##ato', '##ve', '##loc', '##ira', '##p', '##tor']	auto ##m ##ato ##ve ##loc ##ira ##p ##tor
+blend	babymooners	baby honeymooners	AAAXBBBBBBB	linear	purpose	['▁baby', 'm', 'oon', 'ers']	['baby', '##m', '##oon', '##ers']	baby ##m ##oon ##ers
+blend	barricage	barricade cage	AAAAAXBBB	linear	attribute	['▁barr', 'ic', 'age']	['barr', '##ic', '##age']	barr ##ic ##age
+blend	bigature	big miniature	AAABBBBB	linear	attribute	['▁big', 'ature']	['big', '##ature']	big ##ature
+blend	bildogsromans	bildungsroman dog	AAAXBXAAAAAAS	nonlinear	topical	['▁', 'bil', 'dog', 's', 'ro', 'man', 's']	['', '##bil', '##dog', '##s', '##ro', '##man', '##s']	 ##bil ##dog ##s ##ro ##man ##s
+blend	birkini	birqa bikini	XXABBBB	nonlinear	attribute	['▁bi', 'rk', 'ini']	['bi', '##rk', '##ini']	bi ##rk ##ini
+blend	bizcations	biz vacation	AAABBBBBBS	linear	purpose	['▁', 'biz', 'cation', 's']	['', '##biz', '##cation', '##s']	 ##biz ##cation ##s
+blend	bizliner	biz cruiseliner	AAABBBBB	linear	purpose	['▁', 'biz', 'liner']	['', '##biz', '##liner']	 ##biz ##liner
+blend	bitmojis	bit emoji	AAABBBBS	linear	containment	['▁bit', 'mo', 'ji', 's']	['bit', '##mo', '##ji', '##s']	bit ##mo ##ji ##s
+blend	blaspy	black wasp	AAXBBS	linear	attribute	['▁b', 'las', 'p', 'y']	['b', '##las', '##p', '##y']	b ##las ##p ##y
+blend	blurrealist	blur surreal	AAXXBBBBSSS	linear	attribute	['▁blur', 're', 'al', 'ist']	['blur', '##re', '##al', '##ist']	blur ##re ##al ##ist
+blend	bookstagrammer	book instagram	AAAABBBBBBBOSS	linear	topical	['▁books', 'ta', 'gram', 'mer']	['books', '##ta', '##gram', '##mer']	books ##ta ##gram ##mer
+blend	bordoodle	border_collie poodle	AAAABBBBB	linear	attribute	['▁', 'bor', 'd', 'ood', 'le']	['', '##bor', '##d', '##ood', '##le']	 ##bor ##d ##ood ##le
+blend	breastaurants	breast restaurant	AXXAXXBBBBBBS	nonlinear	containment	['▁breast', 'au', 'rant', 's']	['breast', '##au', '##rant', '##s']	breast ##au ##rant ##s
+blend	bridesmates	bridesmaid mate	AAAAAAXXBBS	linear	purpose	['▁bride', 's', 'mates']	['bride', '##s', '##mates']	bride ##s ##mates
+blend	brocialist	bro socialist	AAXBBBBBBB	linear	attribute	['▁', 'bro', 'cial', 'ist']	['', '##bro', '##cial', '##ist']	 ##bro ##cial ##ist
+blend	broketose	broke lactose	AAAAABBBB	linear	attribute	['▁broke', 't', 'ose']	['broke', '##t', '##ose']	broke ##t ##ose
+blend	bromosexuality	bro homosexual	AAXBBBBBBBBSSS	linear	attribute	['▁', 'bro', 'mo', 'sexual', 'ity']	['', '##bro', '##mo', '##sexual', '##ity']	 ##bro ##mo ##sexual ##ity
+blend	brosephs	bro joseph	AAXBBBBS	linear	attribute	['▁', 'bro', 's', 'eph', 's']	['', '##bro', '##s', '##eph', '##s']	 ##bro ##s ##eph ##s
+blend	brotelier	bro hotelier	AAXBBBBBB	linear	attribute	['▁', 'bro', 'tel', 'ier']	['', '##bro', '##tel', '##ier']	 ##bro ##tel ##ier
+blend	bullversary	bull anniversary	AAAABBBBBBB	linear	topical	['▁bull', 'ver', 's', 'ary']	['bull', '##ver', '##s', '##ary']	bull ##ver ##s ##ary
+blend	cancerchondria	cancer hypochondria	AAAAAABBBBBBBB	linear	topical	['▁cancer', 'chon', 'd', 'ria']	['cancer', '##chon', '##d', '##ria']	cancer ##chon ##d ##ria
+blend	chesticle	chest testicle	AAXXXBBBB	linear	loc_part_whole	['▁chest', 'ic', 'le']	['chest', '##ic', '##le']	chest ##ic ##le
+blend	chicksplains	chick explain	AAAAAOBBBBBS	linear	causal	['▁chick', 's', 'p', 'lain', 's']	['chick', '##s', '##p', '##lain', '##s']	chick ##s ##p ##lain ##s
+blend	chimpanzombies	chimpanzee zombies	AAAAAAAXBBBBBB	linear	attribute	['▁', 'chi', 'm', 'p', 'an', 'zo', 'mb', 'ies']	['', '##chi', '##m', '##p', '##an', '##zo', '##mb', '##ies']	 ##chi ##m ##p ##an ##zo ##mb ##ies
+blend	chipster	chicano hipster	AXXBBBBB	linear	attribute	['▁chips', 'ter']	['chips', '##ter']	chips ##ter
+blend	churchagogues	church synagogues	AAAAAABBBBBBB	linear	attribute	['▁church', 'ago', 'gue', 's']	['church', '##ago', '##gue', '##s']	church ##ago ##gue ##s
+blend	cinnabark	cinnamon bark	AAAAABBBB	linear	attribute	['▁', 'cin', 'na', 'bar', 'k']	['', '##cin', '##na', '##bar', '##k']	 ##cin ##na ##bar ##k
+blend	clairsentient	clairvoyant sentient	AAAAABBBBBBXX	nonlinear	causal	['▁', 'cla', 'ir', 's', 'ent', 'ient']	['', '##cla', '##ir', '##s', '##ent', '##ient']	 ##cla ##ir ##s ##ent ##ient
+blend	cliteracy	clit literacy	AXXXBBBBB	linear	topical	['▁', 'cl', 'iteracy']	['', '##cl', '##iteracy']	 ##cl ##iteracy
+blend	craftivists	craft activist	AAXAXBBBBBS	nonlinear	causal	['▁craft', 'iv', 'ists']	['craft', '##iv', '##ists']	craft ##iv ##ists
+blend	crapberg	crap iceberg	AAAABBBB	linear	containment	['▁crap', 'berg']	['crap', '##berg']	crap ##berg
+blend	cryptocohn	coin cohn	PPPPPPXXBX	nonlinear	causal	['▁crypt', 'o', 'co', 'hn']	['crypt', '##o', '##co', '##hn']	crypt ##o ##co ##hn
+blend	disemvowelled	bowel vowel	PPPPPBXXXXXSS	nonlinear	cause	['▁dis', 'em', 'vo', 'well', 'ed']	['dis', '##em', '##vo', '##well', '##ed']	dis ##em ##vo ##well ##ed
+blend	dishrupted	dish disrupted	XXXABBBBBB	nonlinear	topical	['▁dish', 'ru', 'p', 't', 'ed']	['dish', '##ru', '##p', '##t', '##ed']	dish ##ru ##p ##t ##ed
+blend	distractibaking	distraction bake	AAAAAAAAABBBSSS	linear	purpose	['▁distract', 'iba', 'king']	['distract', '##iba', '##king']	distract ##iba ##king
+blend	drunkalog	drunk dialog	XAAAABBBB	nonlinear	time	['▁drunk', 'a', 'log']	['drunk', '##a', '##log']	drunk ##a ##log
+blend	drunkicidal	drunk suicidal	AAAAABBBBBB	linear	time	['▁drunk', 'ici', 'dal']	['drunk', '##ici', '##dal']	drunk ##ici ##dal
+blend	econblogging	economy blogging	AAAABBBBSSSS	linear	topical	['▁', 'e', 'con', 'b', 'logging']	['', '##e', '##con', '##b', '##logging']	 ##e ##con ##b ##logging
+blend	eggceptional	egg exception	XAABBBBBBBSS	nonlinear	attribute	['▁egg', 'cept', 'ion', 'al']	['egg', '##cept', '##ion', '##al']	egg ##cept ##ion ##al
+blend	eggcessories	egg accessory	AAABBBBBBSSS	linear	containment	['▁egg', 'ce', 's', 's', 'ories']	['egg', '##ce', '##s', '##s', '##ories']	egg ##ce ##s ##s ##ories
+blend	fandomonium	fandom pandamonium	AXXXAXBBBBB	nonlinear	causal	['▁fan', 'dom', 'on', 'ium']	['fan', '##dom', '##on', '##ium']	fan ##dom ##on ##ium
+blend	fanimatic	fan animation cinematic	AXXBXXXCC	linear	causal	['▁fan', 'i', 'matic']	['fan', '##i', '##matic']	fan ##i ##matic
+blend	fanthropologist	fan anthropologist	AXXBBBBBBBBBBBB	linear	topical	['▁fan', 'throp', 'ologist']	['fan', '##throp', '##ologist']	fan ##throp ##ologist
+blend	fitfluencers	fit influencer	AAABBBBBBBBS	linear	purpose	['▁fit', 'flu', 'ence', 'rs']	['fit', '##flu', '##ence', '##rs']	fit ##flu ##ence ##rs
+blend	fluba	flute tuba	AAXBB	linear	attribute	['▁flu', 'ba']	['flu', '##ba']	flu ##ba
+blend	four`easter	four nor`east	AXAXBBBBBSS	nonlinear	other	['▁four', '`', 'east', 'er']	['four', '##`', '##east', '##er']	four ##` ##east ##er
+blend	frenemesis	friend enemy nemesis	AAXXXXCCCC	linear	attribute	['▁', 'fr', 'ene', 'mes', 'is']	['', '##fr', '##ene', '##mes', '##is']	 ##fr ##ene ##mes ##is
+blend	frumpers	frump jumper	AAXXXBBS	linear	attribute	['▁f', 'rum', 'p', 'ers']	['f', '##rum', '##p', '##ers']	f ##rum ##p ##ers
+blend	fuchsenta	fuchsia magenta	AAAAABBBX	nonlinear	attribute	['▁f', 'uch', 'sen', 'ta']	['f', '##uch', '##sen', '##ta']	f ##uch ##sen ##ta
+blend	galactogogues	galactic synagogue	AAAAAAOBBBBBS	linear	attribute	['▁', 'gal', 'act', 'og', 'ogue', 's']	['', '##gal', '##act', '##og', '##ogue', '##s']	 ##gal ##act ##og ##ogue ##s
+blend	gentlepersonly	gentleman person	AAAAAABBBBBBSS	linear	attribute	['▁gentle', 'person', 'ly']	['gentle', '##person', '##ly']	gentle ##person ##ly
+blend	glamborgeous	glamour gorgeous	XAAAOXXBBBBB	linear	attribute	['▁g', 'la', 'mb', 'org', 'eous']	['g', '##la', '##mb', '##org', '##eous']	g ##la ##mb ##org ##eous
+blend	glampground	glamour campground	AAXXBBBBBBB	linear	attribute	['▁', 'gl', 'amp', 'ground']	['', '##gl', '##amp', '##ground']	 ##gl ##amp ##ground
+blend	gruxury	grunge luxury	AAXBBBB	linear	attribute	['▁', 'gr', 'ux', 'ur', 'y']	['', '##gr', '##ux', '##ur', '##y']	 ##gr ##ux ##ur ##y
+blend	gymternet	gym internet	AAABBBBBB	linear	loc_part_whole	['▁gym', 'ter', 'net']	['gym', '##ter', '##net']	gym ##ter ##net
+blend	hackistocracy	hack aristocracy	AAAABBBBBBBBB	linear	attribute	['▁', 'hack', 'ist', 'ocracy']	['', '##hack', '##ist', '##ocracy']	 ##hack ##ist ##ocracy
+blend	hatriotism	hate patriot	AXXBBBBSSS	linear	attribute	['▁hat', 'rio', 't', 'ism']	['hat', '##rio', '##t', '##ism']	hat ##rio ##t ##ism
+blend	himpathy	him empathy	AAXBBBBB	linear	owner_emp_use	['▁him', 'pathy']	['him', '##pathy']	him ##pathy
+blend	hoboning	hobo bone	AAXXBSSS	linear	owner_emp_use	['▁ho', 'bon', 'ing']	['ho', '##bon', '##ing']	ho ##bon ##ing
+blend	hoejabi	hoe hijabi	XAABBBB	nonlinear	attribute	['▁', 'hoe', 'ja', 'bi']	['', '##hoe', '##ja', '##bi']	 ##hoe ##ja ##bi
+blend	hooficuffs	hoof fisticuffs	AAAABBBBBB	linear	attribute	['▁', 'hoo', 'fi', 'cuff', 's']	['', '##hoo', '##fi', '##cuff', '##s']	 ##hoo ##fi ##cuff ##s
+blend	humailiation	humiliation mail	AAXBXXAASSSS	nonlinear	topical	['▁', 'hu', 'mail', 'i', 'ation']	['', '##hu', '##mail', '##i', '##ation']	 ##hu ##mail ##i ##ation
+blend	innoventor	innovate inventor	XXAAXBBBBB	nonlinear	causal	['▁in', 'no', 'vent', 'or']	['in', '##no', '##vent', '##or']	in ##no ##vent ##or
+blend	instacelebs	instagram celeb	AAAAABBBBBS	linear	loc_part_whole	['▁in', 'sta', 'cel', 'eb', 's']	['in', '##sta', '##cel', '##eb', '##s']	in ##sta ##cel ##eb ##s
+blend	instapays	instant pay	AAAAABBBS	linear	time	['▁in', 'sta', 'pay', 's']	['in', '##sta', '##pay', '##s']	in ##sta ##pay ##s
+blend	jacuz	jacuzzi recuse	AAXXA	nonlinear	cause	['▁j', 'ac', 'uz']	['j', '##ac', '##uz']	j ##ac ##uz
+blend	jetiquette	jet etiquette	AXXBBBBBBB	linear	loc_part_whole	['▁jet', 'i', 'quette']	['jet', '##i', '##quette']	jet ##i ##quette
+blend	jobbymoons	job honeymoon	AXAOBBBBBS	nonlinear	purpose	['▁job', 'by', 'mo', 'ons']	['job', '##by', '##mo', '##ons']	job ##by ##mo ##ons
+blend	karligraphy	karl calligraphy	AXAXBBBBBBB	nonlinear	owner_emp_use	['▁', 'kar', 'li', 'graph', 'y']	['', '##kar', '##li', '##graph', '##y']	 ##kar ##li ##graph ##y
+blend	kibathroom	kitchen bathroom	AABBBBBBBB	linear	attribute	['▁', 'ki', 'bath', 'room']	['', '##ki', '##bath', '##room']	 ##ki ##bath ##room
+blend	kidfluencer	kid influencer	AAABBBBBBBB	linear	attribute	['▁kid', 'flu', 'ence', 'r']	['kid', '##flu', '##ence', '##r']	kid ##flu ##ence ##r
+blend	kwaussie	kiwi aussie	AABBBBBB	linear	attribute	['▁', 'k', 'wa', 'us', 's', 'ie']	['', '##k', '##wa', '##us', '##s', '##ie']	 ##k ##wa ##us ##s ##ie
+blend	kyshadow	kylie eyeshadow	AXBBBBBB	linear	owner_emp_use	['▁', 'ky', 's', 'had', 'ow']	['', '##ky', '##s', '##had', '##ow']	 ##ky ##s ##had ##ow
+blend	magpiety	magpie piety	AAAXXXBB	linear	cause	['▁', 'm', 'ag', 'p', 'iety']	['', '##m', '##ag', '##p', '##iety']	 ##m ##ag ##p ##iety
+blend	malestream	male mainstream	XXAABBBBBB	nonlinear	causal	['▁male', 'stream']	['male', '##stream']	male ##stream
+blend	manumotive	manual motive	AAAABBBBBB	linear	causal	['▁man', 'um', 'o', 'tive']	['man', '##um', '##o', '##tive']	man ##um ##o ##tive
+blend	masculennial	masculine millennial	XAAAAXBBBBBB	nonlinear	attribute	['▁', 'ma', 'scu', 'l', 'ennial']	['', '##ma', '##scu', '##l', '##ennial']	 ##ma ##scu ##l ##ennial
+blend	mispers	missing person	AAABBBS	linear	owner_emp_use	['▁mis', 'p', 'ers']	['mis', '##p', '##ers']	mis ##p ##ers
+blend	motorvate	motor motivate	XXXAABBBB	nonlinear	topical	['▁motor', 'vat', 'e']	['motor', '##vat', '##e']	motor ##vat ##e
+blend	normible	normal terrible	AAAABBBB	linear	attribute	['▁norm', 'ible']	['norm', '##ible']	norm ##ible
+blend	nowcasters	now forecast	AAABBBBSSS	linear	time	['▁now', 'cast', 'ers']	['now', '##cast', '##ers']	now ##cast ##ers
+blend	occasiotarian	occasio vegetarian	AAAAAAABBBBBB	linear	time	['▁', 'o', 'cca', 's', 'io', 't', 'arian']	['', '##o', '##cca', '##s', '##io', '##t', '##arian']	 ##o ##cca ##s ##io ##t ##arian
+blend	orcaestraits	orca orchestrate straits	XXXABXXXXCCC	nonlinear	loc_part_whole	['▁or', 'ca', 'e', 'stra', 'its']	['or', '##ca', '##e', '##stra', '##its']	or ##ca ##e ##stra ##its
+blend	panities	panty vanity	AXXBBSSS	linear	loc_part_whole	['▁pan', 'ities']	['pan', '##ities']	pan ##ities
+blend	pathobigot	pathological bigot	AAAAABBBBB	linear	attribute	['▁path', 'ob', 'igo', 't']	['path', '##ob', '##igo', '##t']	path ##ob ##igo ##t
+blend	pawrent	paw parent	XXABBBB	nonlinear	owner_emp_use	['▁', 'p', 'aw', 'rent']	['', '##p', '##aw', '##rent']	 ##p ##aw ##rent
+blend	pawternity	paw paternity	XXABBBBBBB	nonlinear	attribute	['▁', 'p', 'aw', 'tern', 'ity']	['', '##p', '##aw', '##tern', '##ity']	 ##p ##aw ##tern ##ity
+blend	paytriarchy	pay patriarchy	XXABBBBBBBB	nonlinear	causal	['▁pay', 'tri', 'arch', 'y']	['pay', '##tri', '##arch', '##y']	pay ##tri ##arch ##y
+blend	perfidection	perfidious perfection	XXXXAABBBBBB	nonlinear	attribute	['▁per', 'fi', 'de', 'ction']	['per', '##fi', '##de', '##ction']	per ##fi ##de ##ction
+blend	plastigoop	plastic goop	AAAAAABBBB	linear	containment	['▁', 'p', 'last', 'igo', 'op']	['', '##p', '##last', '##igo', '##op']	 ##p ##last ##igo ##op
+blend	podfasters	podcast fast	AAABXXXSSS	nonlinear	topical	['▁pod', 'fast', 'ers']	['pod', '##fast', '##ers']	pod ##fast ##ers
+blend	poptronic	pop electronic	AAABBBBBB	linear	attribute	['▁pop', 't', 'ronic']	['pop', '##t', '##ronic']	pop ##t ##ronic
+blend	prayformances	pray performance	XXAABBBBBBBBS	nonlinear	topical	['▁pray', 'form', 'ance', 's']	['pray', '##form', '##ance', '##s']	pray ##form ##ance ##s
+blend	pregret	regret	PXXAAAA	linear	time	['▁pre', 'g', 're', 't']	['pre', '##g', '##re', '##t']	pre ##g ##re ##t
+blend	procrastibaker	procrastinate bake	AAAAAAAAABBBSS	linear	purpose	['▁pro', 'cra', 's', 't', 'iba', 'ker']	['pro', '##cra', '##s', '##t', '##iba', '##ker']	pro ##cra ##s ##t ##iba ##ker
+blend	procrasticleaning	procrastinate clean	AAAAAAAAABBBBBSSS	linear	purpose	['▁pro', 'cr', 'astic', 'leaning']	['pro', '##cr', '##astic', '##leaning']	pro ##cr ##astic ##leaning
+blend	puptials	puppy nuptial	AXXBBBBS	linear	containment	['▁', 'p', 'up', 't', 'ial', 's']	['', '##p', '##up', '##t', '##ial', '##s']	 ##p ##up ##t ##ial ##s
+blend	rockconteur	rock raconteur	XAAABBBBBBB	nonlinear	topical	['▁rock', 'con', 't', 'eur']	['rock', '##con', '##t', '##eur']	rock ##con ##t ##eur
+blend	roofalanches	roof avalanche	AAAABBBBBBBS	linear	attribute	['▁roof', 'al', 'an', 'ches']	['roof', '##al', '##an', '##ches']	roof ##al ##an ##ches
+blend	sceeves	scarf sleeve	AABBBBS	linear	attribute	['▁', 's', 'ce', 'e', 've', 's']	['', '##s', '##ce', '##e', '##ve', '##s']	 ##s ##ce ##e ##ve ##s
+blend	sciencuality	science sensual	XAAXXABBBSSS	nonlinear	topical	['▁sci', 'en', 'c', 'uality']	['sci', '##en', '##c', '##uality']	sci ##en ##c ##uality
+blend	shaleionaires	shale millionaire	AAAXABBBBBBBS	nonlinear	cause	['▁shale', 'ion', 'aire', 's']	['shale', '##ion', '##aire', '##s']	shale ##ion ##aire ##s
+blend	shesteading	she seastead	XAXBBBBBSSS	nonlinear	causal	['▁she', 'stead', 'ing']	['she', '##stead', '##ing']	she ##stead ##ing
+blend	shoptics	shop optic	AAXXBBBS	linear	loc_part_whole	['▁shop', 'tic', 's']	['shop', '##tic', '##s']	shop ##tic ##s
+blend	skouzers	skirt trouser	AABBOBBS	linear	attribute	['▁', 's', 'ko', 'uz', 'ers']	['', '##s', '##ko', '##uz', '##ers']	 ##s ##ko ##uz ##ers
+blend	slowbalization	slow globalization	AXXABBBBBBBBBB	nonlinear	attribute	['▁slow', 'bal', 'ization']	['slow', '##bal', '##ization']	slow ##bal ##ization
+blend	snacktivities	snack activity	AAXXABBBBBSSS	nonlinear	purpose	['▁snack', 't', 'iv', 'ities']	['snack', '##t', '##iv', '##ities']	snack ##t ##iv ##ities
+blend	snaketivity	snake nativity	AXXAABBBBBB	nonlinear	attribute	['▁snake', 't', 'ivity']	['snake', '##t', '##ivity']	snake ##t ##ivity
+blend	snarcasm	snark sarcasm	XAXXBBBB	nonlinear	attribute	['▁', 's', 'nar', 'ca', 's', 'm']	['', '##s', '##nar', '##ca', '##s', '##m']	 ##s ##nar ##ca ##s ##m
+blend	snatchphrase	snatch catchphrase	AAXXXXBBBBBB	linear	loc_part_whole	['▁snatch', 'p', 'hr', 'ase']	['snatch', '##p', '##hr', '##ase']	snatch ##p ##hr ##ase
+blend	snidbits	snide tidbit	AAXXBBBS	linear	attribute	['▁', 's', 'ni', 'd', 'bit', 's']	['', '##s', '##ni', '##d', '##bit', '##s']	 ##s ##ni ##d ##bit ##s
+blend	snowgie	snow snuggie	XXAABBB	nonlinear	containment	['▁snow', 'gie']	['snow', '##gie']	snow ##gie
+blend	soulappella	soul a_cappella	AAAABBBBBBB	linear	attribute	['▁soul', 'a', 'p', 'p', 'ella']	['soul', '##a', '##p', '##p', '##ella']	soul ##a ##p ##p ##ella
+blend	stacktician	stack tactician	AXXXABBBBBB	nonlinear	purpose	['▁stack', 'tic', 'ian']	['stack', '##tic', '##ian']	stack ##tic ##ian
+blend	suberogatory	sub supererogatory	XXABBBBBBBBB	nonlinear	attribute	['▁sub', 'er', 'og', 'atory']	['sub', '##er', '##og', '##atory']	sub ##er ##og ##atory
+blend	techceleration	tech acceleration	AAXABBBBBBBBBB	nonlinear	causal	['▁tech', 'ce', 'ler', 'ation']	['tech', '##ce', '##ler', '##ation']	tech ##ce ##ler ##ation
+blend	techlash	tech backlash	AAXABBBB	nonlinear	causal	['▁tech', 'lash']	['tech', '##lash']	tech ##lash
+blend	techsploitation	tech exploitation	AXAAOBBBBBBBBBB	nonlinear	causal	['▁tech', 's', 'p', 'lo', 'it', 'ation']	['tech', '##s', '##p', '##lo', '##it', '##ation']	tech ##s ##p ##lo ##it ##ation
+blend	thrupple	three couple	AAABOBBB	linear	containment	['▁', 'th', 'ru', 'p', 'p', 'le']	['', '##th', '##ru', '##p', '##p', '##le']	 ##th ##ru ##p ##p ##le
+blend	tixels	tactile pixel	ABBBBS	linear	purpose	['▁', 't', 'ix', 'el', 's']	['', '##t', '##ix', '##el', '##s']	 ##t ##ix ##el ##s
+blend	tomacco	tomato tobacco	XXAXBBX	nonlinear	attribute	['▁to', 'm', 'acco']	['to', '##m', '##acco']	to ##m ##acco
+blend	tradwife	traditional wife	AAAABBBB	linear	attribute	['▁', 'tra', 'd', 'wife']	['', '##tra', '##d', '##wife']	 ##tra ##d ##wife
+blend	transface	transgender blackface	AAAAABBBB	linear	owner_emp_use	['▁trans', 'face']	['trans', '##face']	trans ##face
+blend	translaptations	translation adaptation	AAAAAAXBBXXXXXS	nonlinear	attribute	['▁trans', 'la', 'p', 't', 'ation', 's']	['trans', '##la', '##p', '##t', '##ation', '##s']	trans ##la ##p ##t ##ation ##s
+blend	treecycling	tree recycle	AXXABBBBSSS	nonlinear	objective	['▁tree', 'cycli', 'ng']	['tree', '##cycli', '##ng']	tree ##cycli ##ng
+blend	trimmigrants	trim immigrants	AAXXBBBBBBBB	linear	owner_emp_use	['▁trim', 'migrants']	['trim', '##migrants']	trim ##migrants
+blend	twunks	twink hunk	AABXXS	nonlinear	attribute	['▁', 't', 'w', 'unk', 's']	['', '##t', '##w', '##unk', '##s']	 ##t ##w ##unk ##s
+blend	undeadpan	undead deadpan	AAXXXXBBB	linear	owner_emp_use	['▁un', 'de', 'ad', 'p', 'an']	['un', '##de', '##ad', '##p', '##an']	un ##de ##ad ##p ##an
+blend	undogly	ungodly dog	AAXXXAA	nonlinear	attribute	['▁un', 'dog', 'ly']	['un', '##dog', '##ly']	un ##dog ##ly
+blend	vajacial	vagina facial	AAOBBBBB	linear	loc_part_whole	['▁', 'va', 'ja', 'cial']	['', '##va', '##ja', '##cial']	 ##va ##ja ##cial
+blend	velfie	video selfie	ABBBBB	linear	loc_part_whole	['▁', 've', 'lf', 'ie']	['', '##ve', '##lf', '##ie']	 ##ve ##lf ##ie
+blend	verminfluencers	vermin influencer	AAAAXXBBBBBBBBS	linear	topical	['▁', 'ver', 'mi', 'nfluence', 'rs']	['', '##ver', '##mi', '##nfluence', '##rs']	 ##ver ##mi ##nfluence ##rs
+blend	weekiversary	week anniversary	AAAABBBBBBBB	linear	time	['▁week', 'iver', 's', 'ary']	['week', '##iver', '##s', '##ary']	week ##iver ##s ##ary
+blend	womanfold	woman manifold	AAXXXBBBB	linear	attribute	['▁woman', 'fold']	['woman', '##fold']	woman ##fold
+blend	womanhole	woman manhole	AAXXXBBBB	linear	purpose	['▁woman', 'hole']	['woman', '##hole']	woman ##hole
+transparent compound	batchcode	batch code	AAAAABBBB	linear	time	['▁batch', 'co', 'de']	['batch', '##co', '##de']	batch ##co ##de
+transparent compound	blockholding	block hold	AAAAABBBBSSS	linear	owner_emp_use	['▁block', 'hold', 'ing']	['block', '##hold', '##ing']	block ##hold ##ing
+transparent compound	bloodfruit	blood fruit	AAAAABBBBB	linear	attribute	['▁blood', 'fr', 'uit']	['blood', '##fr', '##uit']	blood ##fr ##uit
+transparent compound	bodyhacking	body hack	AAAABBBBSSS	linear	cause	['▁body', 'hack', 'ing']	['body', '##hack', '##ing']	body ##hack ##ing
+transparent compound	bodysnatched	body snatch	AAAABBBBBBSS	linear	cause	['▁body', 's', 'n', 'atch', 'ed']	['body', '##s', '##n', '##atch', '##ed']	body ##s ##n ##atch ##ed
+transparent compound	bowperson	bow person	AAABBBBBB	linear	loc_part_whole	['▁bow', 'person']	['bow', '##person']	bow ##person
+transparent compound	bubblesong	bubble song	AAAAAABBBB	linear	containment	['▁bubble', 's', 'ong']	['bubble', '##s', '##ong']	bubble ##s ##ong
+transparent compound	buckstopping	buck stop	AAAABBBBSSSS	linear	objective	['▁buck', 'stopping']	['buck', '##stopping']	buck ##stopping
+transparent compound	buttonsize	button size	AAAAAABBBB	linear	complement	['▁button', 'size']	['button', '##size']	button ##size
+transparent compound	camgirl	cam girl	AAABBBB	linear	causal	['▁ca', 'm', 'girl']	['ca', '##m', '##girl']	ca ##m ##girl
+transparent compound	catsit	cat sit	AAABBB	linear	objective	['▁cats', 'it']	['cats', '##it']	cats ##it
+transparent compound	chatbox	chat box	AAAABBB	linear	containment	['▁chat', 'box']	['chat', '##box']	chat ##box
+transparent compound	colorimetric	color metric	AAAAAOBBBBBB	linear	other	['▁color', 'i', 'metric']	['color', '##i', '##metric']	color ##i ##metric
+transparent compound	cropmarks	crop mark	AAAABBBBS	linear	loc_part_whole	['▁crop', 'mark', 's']	['crop', '##mark', '##s']	crop ##mark ##s
+transparent compound	cryptoart	crypto art	AAAAAABBB	linear	loc_part_whole	['▁crypt', 'o', 'art']	['crypt', '##o', '##art']	crypt ##o ##art
+transparent compound	cryptocoin	crypto coin	AAAAAABBBB	linear	loc_part_whole	['▁crypt', 'o', 'co', 'in']	['crypt', '##o', '##co', '##in']	crypt ##o ##co ##in
+transparent compound	cryptocommunity	crypto community	AAAAAABBBBBBBBB	linear	loc_part_whole	['▁crypt', 'o', 'com', 'mun', 'ity']	['crypt', '##o', '##com', '##mun', '##ity']	crypt ##o ##com ##mun ##ity
+transparent compound	cryptoheists	crypto heist	AAAAAABBBBBS	linear	causal	['▁crypt', 'oh', 'e', 'ists']	['crypt', '##oh', '##e', '##ists']	crypt ##oh ##e ##ists
+transparent compound	cryptomining	crypto mine	AAAAAABBBBBB	linear	objective	['▁crypt', 'omin', 'ing']	['crypt', '##omin', '##ing']	crypt ##omin ##ing
+transparent compound	cryptotechnology	crypto technology	AAAAAABBBBBBBBBB	linear	attribute	['▁crypt', 'o', 'technology']	['crypt', '##o', '##technology']	crypt ##o ##technology
+transparent compound	cybercounterattack	cyber counter attack	AAAAABBBBBBBBBBBBB	linear	causal	['▁cyber', 'counter', 'att', 'ack']	['cyber', '##counter', '##att', '##ack']	cyber ##counter ##att ##ack
+transparent compound	cyberdefenders	cyber defender	AAAAABBBBBBBBS	linear	purpose	['▁cyber', 'd', 'ef', 'ender', 's']	['cyber', '##d', '##ef', '##ender', '##s']	cyber ##d ##ef ##ender ##s
+transparent compound	cyberdoctrine	cyber doctrine	AAAAABBBBBBBB	linear	topical	['▁cyber', 'd', 'oc', 't', 'rine']	['cyber', '##d', '##oc', '##t', '##rine']	cyber ##d ##oc ##t ##rine
+transparent compound	cyberfield	cyber field	AAAAABBBBB	linear	loc_part_whole	['▁cyber', 'field']	['cyber', '##field']	cyber ##field
+transparent compound	cyberfighters	cyber fighter	AAAAABBBBBBBS	linear	purpose	['▁cyber', 'f', 'ight', 'ers']	['cyber', '##f', '##ight', '##ers']	cyber ##f ##ight ##ers
+transparent compound	cybergiggle	cyber giggle	AAAAABBBBBB	linear	attribute	['▁cyber', 'gi', 'ggle']	['cyber', '##gi', '##ggle']	cyber ##gi ##ggle
+transparent compound	cyberhit	cyber hit	AAAAABBB	linear	causal	['▁cyber', 'hit']	['cyber', '##hit']	cyber ##hit
+transparent compound	cyberinterference	cyber interference	AAAAABBBBBBBBBBBB	linear	causal	['▁cyber', 'inter', 'ference']	['cyber', '##inter', '##ference']	cyber ##inter ##ference
+transparent compound	cyberinvasion	cyber invasion	AAAAABBBBBBBB	linear	causal	['▁cyber', 'in', 'va', 's', 'ion']	['cyber', '##in', '##va', '##s', '##ion']	cyber ##in ##va ##s ##ion
+transparent compound	cyberlibel	cyber libel	AAAAABBBBB	linear	loc_part_whole	['▁cyber', 'lib', 'el']	['cyber', '##lib', '##el']	cyber ##lib ##el
+transparent compound	cyberlover	cyber lover	AAAAABBBBB	linear	loc_part_whole	['▁cyber', 'l', 'over']	['cyber', '##l', '##over']	cyber ##l ##over
+transparent compound	cybermanipulation	cyber manipulation	AAAAABBBBBBBBBBBB	linear	causal	['▁cyber', 'mani', 'p', 'ulation']	['cyber', '##mani', '##p', '##ulation']	cyber ##mani ##p ##ulation
+transparent compound	cybermercenaries	cyber mercenary	AAAAABBBBBBBBBBS	linear	causal	['▁cyber', 'mer', 'cen', 'aries']	['cyber', '##mer', '##cen', '##aries']	cyber ##mer ##cen ##aries
+transparent compound	cybersensation	cyber sensation	AAAAABBBBBBBBB	linear	loc_part_whole	['▁cyber', 'sen', 's', 'ation']	['cyber', '##sen', '##s', '##ation']	cyber ##sen ##s ##ation
+transparent compound	cyberskirmishing	cyber skirmish	AAAAABBBBBBBBSSS	linear	loc_part_whole	['▁cyber', 'ski', 'r', 'm', 'ish', 'ing']	['cyber', '##ski', '##r', '##m', '##ish', '##ing']	cyber ##ski ##r ##m ##ish ##ing
+transparent compound	cyberspooks	cyber spook	AAAAABBBBBS	linear	loc_part_whole	['▁cyber', 's', 'p', 'ook', 's']	['cyber', '##s', '##p', '##ook', '##s']	cyber ##s ##p ##ook ##s
+transparent compound	daggertooth	dagger tooth	AAAAAABBBBB	linear	attribute	['▁', 'da', 'gger', 'too', 'th']	['', '##da', '##gger', '##too', '##th']	 ##da ##gger ##too ##th
+transparent compound	dramatotherapy	drama therapy	AAAAAOOBBBBBBB	linear	causal	['▁drama', 'to', 'th', 'era', 'p', 'y']	['drama', '##to', '##th', '##era', '##p', '##y']	drama ##to ##th ##era ##p ##y
+transparent compound	fireleg	fire leg	AAAABBB	linear	attribute	['▁fire', 'leg']	['fire', '##leg']	fire ##leg
+transparent compound	flipback	flip back	AAAABBBB	linear	objective	['▁flip', 'back']	['flip', '##back']	flip ##back
+transparent compound	frackpads	frack pad	AAAAABBBS	linear	loc_part_whole	['▁', 'fr', 'ack', 'p', 'ad', 's']	['', '##fr', '##ack', '##p', '##ad', '##s']	 ##fr ##ack ##p ##ad ##s
+transparent compound	frogwomen	frog women	AAAABBBBB	linear	attribute	['▁frog', 'women']	['frog', '##women']	frog ##women
+transparent compound	furgirl	fur girl	AAABBBB	linear	attribute	['▁fur', 'girl']	['fur', '##girl']	fur ##girl
+transparent compound	garagerock	garage rock	AAAAAABBBB	linear	loc_part_whole	['▁garage', 'rock']	['garage', '##rock']	garage ##rock
+transparent compound	glowspot	glow spot	AAAABBBB	linear	attribute	['▁glow', 's', 'pot']	['glow', '##s', '##pot']	glow ##s ##pot
+transparent compound	grangelands	grange land	AAAAAABBBBS	linear	loc_part_whole	['▁g', 'range', 'lands']	['g', '##range', '##lands']	g ##range ##lands
+transparent compound	greybrick	grey brick	AAAABBBBB	linear	attribute	['▁g', 'rey', 'brick']	['g', '##rey', '##brick']	g ##rey ##brick
+transparent compound	grumblebark	grumble bark	AAAAAAABBBB	linear	attribute	['▁grumble', 'bar', 'k']	['grumble', '##bar', '##k']	grumble ##bar ##k
+transparent compound	guideword	guide word	AAAAABBBB	linear	purpose	['▁guide', 'word']	['guide', '##word']	guide ##word
+transparent compound	halfripe	half ripe	AAAABBBB	linear	attribute	['▁half', 'ri', 'p', 'e']	['half', '##ri', '##p', '##e']	half ##ri ##p ##e
+transparent compound	happymaking	happy make	AAAAABBBBBB	linear	objective	['▁happy', 'making']	['happy', '##making']	happy ##making
+transparent compound	hellspace	hell space	AAAABBBBB	linear	attribute	['▁hell', 'space']	['hell', '##space']	hell ##space
+transparent compound	hillwalker	hill walker	AAAABBBBBB	linear	topical	['▁hill', 'walk', 'er']	['hill', '##walk', '##er']	hill ##walk ##er
+transparent compound	hotwords	hot word	AAABBBBS	linear	attribute	['▁hot', 'word', 's']	['hot', '##word', '##s']	hot ##word ##s
+transparent compound	houseshoes	house shoe	AAAAABBBBS	linear	loc_part_whole	['▁houses', 'hoe', 's']	['houses', '##hoe', '##s']	houses ##hoe ##s
+transparent compound	icechairing	ice chair	AAABBBBBSSS	linear	loc_part_whole	['▁ice', 'chair', 'ing']	['ice', '##chair', '##ing']	ice ##chair ##ing
+transparent compound	jailworthy	jail worthy	AAAABBBBBB	linear	causal	['▁jail', 'worthy']	['jail', '##worthy']	jail ##worthy
+transparent compound	jerkbait	jerk bait	AAAABBBB	linear	purpose	['▁jerk', 'ba', 'it']	['jerk', '##ba', '##it']	jerk ##ba ##it
+transparent compound	kinkeeping	kin keep	AAABBBBSSS	linear	objective	['▁', 'kin', 'keeping']	['', '##kin', '##keeping']	 ##kin ##keeping
+transparent compound	kitbashing	kit bash	AAABBBBSSS	linear	causal	['▁kit', 'bashing']	['kit', '##bashing']	kit ##bashing
+transparent compound	kronoseismology	krono seismology	AAAAABBBBBBBBBB	linear	topical	['▁', 'k', 'ron', 'ose', 'ism', 'ology']	['', '##k', '##ron', '##ose', '##ism', '##ology']	 ##k ##ron ##ose ##ism ##ology
+transparent compound	lasercutting	laser cut	AAAAABBBSSSS	linear	causal	['▁laser', 'cutting']	['laser', '##cutting']	laser ##cutting
+transparent compound	laysoccerperson	layperson soccer	AAABBBBBBAAAAAA	nonlinear	topical	['▁lay', 's', 'oc', 'cer', 'person']	['lay', '##s', '##oc', '##cer', '##person']	lay ##s ##oc ##cer ##person
+transparent compound	lightsmiths	light smith	AAAAABBBBBS	linear	causal	['▁light', 'smith', 's']	['light', '##smith', '##s']	light ##smith ##s
+transparent compound	lockpad	lock pad	AAAABBB	linear	purpose	['▁lock', 'p', 'ad']	['lock', '##p', '##ad']	lock ##p ##ad
+transparent compound	mazegoers	maze goer	AAAABBBBS	linear	topical	['▁maze', 'goers']	['maze', '##goers']	maze ##goers
+transparent compound	mealbag	meal bag	AAAABBB	linear	containment	['▁meal', 'bag']	['meal', '##bag']	meal ##bag
+transparent compound	mememaking	meme make	AAAABBBBBB	linear	objective	['▁me', 'me', 'making']	['me', '##me', '##making']	me ##me ##making
+transparent compound	misdemeanorland	misdemeanor land	AAAAAAAAAAABBBB	linear	loc_part_whole	['▁misdemeanor', 'land']	['misdemeanor', '##land']	misdemeanor ##land
+transparent compound	mouthpaste	mouth paste	AAAAABBBBB	linear	cause	['▁mouth', 'past', 'e']	['mouth', '##past', '##e']	mouth ##past ##e
+transparent compound	mushpie	mush pie	AAAABBB	linear	containment	['▁mush', 'p', 'ie']	['mush', '##p', '##ie']	mush ##p ##ie
+transparent compound	mythorealism	myth realism	AAAAABBBBBBB	linear	containment	['▁myth', 'ore', 'al', 'ism']	['myth', '##ore', '##al', '##ism']	myth ##ore ##al ##ism
+transparent compound	napmobile	nap mobile	AAABBBBBB	linear	loc_part_whole	['▁na', 'p', 'mobile']	['na', '##p', '##mobile']	na ##p ##mobile
+transparent compound	narcobiography	narco biography	AAAAABBBBBBBBB	linear	topical	['▁', 'nar', 'co', 'bi', 'ography']	['', '##nar', '##co', '##bi', '##ography']	 ##nar ##co ##bi ##ography
+transparent compound	neckbeards	neck beard	AAAAAAAAAS	linear	loc_part_whole	['▁neck', 'be', 'ard', 's']	['neck', '##be', '##ard', '##s']	neck ##be ##ard ##s
+transparent compound	neurocosmetology	neuro cosmetology	AAAAABBBBBBBBBBB	linear	cause	['▁neuro', 'co', 's', 'met', 'ology']	['neuro', '##co', '##s', '##met', '##ology']	neuro ##co ##s ##met ##ology
+transparent compound	pantryload	pantry load	AAAAAABBBB	linear	loc_part_whole	['▁pantry', 'load']	['pantry', '##load']	pantry ##load
+transparent compound	phonebanking	phone bank	AAAAABBBBSSS	linear	other	['▁phone', 'bank', 'ing']	['phone', '##bank', '##ing']	phone ##bank ##ing
+transparent compound	pinbody	pin body	AAABBBB	linear	topical	['▁pin', 'body']	['pin', '##body']	pin ##body
+transparent compound	pothounds	pot hound	AAABBBBBS	linear	attribute	['▁pot', 'ho', 'und', 's']	['pot', '##ho', '##und', '##s']	pot ##ho ##und ##s
+transparent compound	powermodels	power model	AAAAABBBBBS	linear	cause	['▁power', 'model', 's']	['power', '##model', '##s']	power ##model ##s
+transparent compound	psychedollars	psyche dollar	AAAAAABBBBBBS	linear	attribute	['▁psyche', 'dollar', 's']	['psyche', '##dollar', '##s']	psyche ##dollar ##s
+transparent compound	pullquote	pull quote	AAAABBBBB	linear	purpose	['▁pull', 'qu', 'ote']	['pull', '##qu', '##ote']	pull ##qu ##ote
+transparent compound	quizmaker	quiz maker	AAAABBBBB	linear	objective	['▁quiz', 'maker']	['quiz', '##maker']	quiz ##maker
+transparent compound	rallygoing	rally go	AAAAABBSSS	linear	objective	['▁rally', 'going']	['rally', '##going']	rally ##going
+transparent compound	ropemaster	rope master	AAAABBBBBB	linear	topical	['▁rope', 'master']	['rope', '##master']	rope ##master
+transparent compound	rulebreaker	rule breaker	AAAABBBBBBB	linear	objective	['▁rule', 'breaker']	['rule', '##breaker']	rule ##breaker
+transparent compound	scatterfocus	scatter focus	AAAAAAABBBBB	linear	objective	['▁scatter', 'fo', 'cus']	['scatter', '##fo', '##cus']	scatter ##fo ##cus
+transparent compound	schoolstrike	school strike	AAAAAABBBBBB	linear	topical	['▁school', 'strike']	['school', '##strike']	school ##strike
+transparent compound	sextech	sex tech	AAABBBB	linear	purpose	['▁sex', 'tech']	['sex', '##tech']	sex ##tech
+transparent compound	shadowwalker	shadow walker	AAAAAABBBBBB	linear	loc_part_whole	['▁shadow', 'walk', 'er']	['shadow', '##walk', '##er']	shadow ##walk ##er
+transparent compound	shirtballs	shirt balls	AAAAABBBBS	linear	containment	['▁shirt', 'ball', 's']	['shirt', '##ball', '##s']	shirt ##ball ##s
+transparent compound	shutterbait	shutter bait	AAAAAAABBBB	linear	purpose	['▁shutter', 'ba', 'it']	['shutter', '##ba', '##it']	shutter ##ba ##it
+transparent compound	skirtsuit	skirt suit	AAAAABBBB	linear	attribute	['▁skirt', 's', 'uit']	['skirt', '##s', '##uit']	skirt ##s ##uit
+transparent compound	smartclothes	smart clothes	AAAAABBBBBBB	linear	attribute	['▁smart', 'cloth', 'es']	['smart', '##cloth', '##es']	smart ##cloth ##es
+transparent compound	smellwalks	smell walk	AAAAABBBBS	linear	topical	['▁smell', 'walk', 's']	['smell', '##walk', '##s']	smell ##walk ##s
+transparent compound	smokewaves	smoke wave	AAAAABBBBS	linear	containment	['▁smoke', 'wave', 's']	['smoke', '##wave', '##s']	smoke ##wave ##s
+transparent compound	smokewear	smoke wear	AAAAABBBB	linear	causal	['▁smoke', 'wear']	['smoke', '##wear']	smoke ##wear
+transparent compound	sportswash	sports wash	AAAAAABBBB	linear	causal	['▁sports', 'wash']	['sports', '##wash']	sports ##wash
+transparent compound	stablecoin	stable coin	AAAAAABBBB	linear	attribute	['▁stable', 'co', 'in']	['stable', '##co', '##in']	stable ##co ##in
+transparent compound	starhuggers	star hugger	AAAABBBBBBS	linear	topical	['▁star', 'hu', 'gger', 's']	['star', '##hu', '##gger', '##s']	star ##hu ##gger ##s
+transparent compound	stickbaits	stick bait	AAAAABBBBS	linear	containment	['▁stick', 'ba', 'its']	['stick', '##ba', '##its']	stick ##ba ##its
+transparent compound	stingword	sting word	AAAAABBBB	linear	attribute	['▁sting', 'word']	['sting', '##word']	sting ##word
+transparent compound	stonebrain	stone brain	AAAAABBBBB	linear	attribute	['▁stone', 'bra', 'in']	['stone', '##bra', '##in']	stone ##bra ##in
+transparent compound	storytale	story tale	AAAAABBBB	linear	attribute	['▁story', 'tale']	['story', '##tale']	story ##tale
+transparent compound	subtweetstorm	subtweet storm	AAAAAAAABBBBB	linear	attribute	['▁sub', 't', 'wee', 't', 'storm']	['sub', '##t', '##wee', '##t', '##storm']	sub ##t ##wee ##t ##storm
+transparent compound	sweatcoin	sweat coin	AAAAABBBB	linear	cause	['▁sweat', 'co', 'in']	['sweat', '##co', '##in']	sweat ##co ##in
+transparent compound	swimgloat	swim gloat	AAAABBBBB	linear	attribute	['▁swim', 'glo', 'at']	['swim', '##glo', '##at']	swim ##glo ##at
+transparent compound	swirlybird	swirly bird	AAAAAABBBB	linear	attribute	['▁swirl', 'y', 'bird']	['swirl', '##y', '##bird']	swirl ##y ##bird
+transparent compound	thinkbucket	think bucket	AAAAABBBBBB	linear	containment	['▁think', 'buck', 'et']	['think', '##buck', '##et']	think ##buck ##et
+transparent compound	throneholders	throne holder	AAAAAABBBBBBS	linear	owner_emp_use	['▁throne', 'holders']	['throne', '##holders']	throne ##holders
+transparent compound	towerblocks	tower block	AAAAABBBBBS	linear	containment	['▁tower', 'block', 's']	['tower', '##block', '##s']	tower ##block ##s
+transparent compound	trashdraft	trash draft	AAAAABBBBB	linear	loc_part_whole	['▁trash', 'draft']	['trash', '##draft']	trash ##draft
+transparent compound	tunestack	tune stack	AAAABBBBB	linear	containment	['▁tunes', 't', 'ack']	['tunes', '##t', '##ack']	tunes ##t ##ack
+transparent compound	videohomes	video home	AAAAABBBBS	linear	loc_part_whole	['▁video', 'home', 's']	['video', '##home', '##s']	video ##home ##s
+transparent compound	videomicroscope	video microscope	AAAAABBBBBBBBBB	linear	causal	['▁video', 'mic', 'ros', 'co', 'p', 'e']	['video', '##mic', '##ros', '##co', '##p', '##e']	video ##mic ##ros ##co ##p ##e
+transparent compound	viewcounts	view count	AAAABBBBBS	linear	other	['▁view', 'count', 's']	['view', '##count', '##s']	view ##count ##s
+transparent compound	webnotebook	web notebook	AAABBBBBBBB	linear	loc_part_whole	['▁web', 'note', 'book']	['web', '##note', '##book']	web ##note ##book
+transparent compound	whoremistress	whore mistress	AAAAABBBBBBBB	linear	attribute	['▁who', 're', 'mi', 's', 'tress']	['who', '##re', '##mi', '##s', '##tress']	who ##re ##mi ##s ##tress
+transparent compound	wordvomit	word vomit	AAAABBBBB	linear	attribute	['▁word', 'vo', 'mit']	['word', '##vo', '##mit']	word ##vo ##mit
+transparent compound	worldschooling	world school	AAAAABBBBBBSSS	linear	topical	['▁world', 'school', 'ing']	['world', '##school', '##ing']	world ##school ##ing
+opaque compound	astrofunk	astro funk	AAAAABBBB	linear	attribute	['▁a', 'stro', 'f', 'unk']	['a', '##stro', '##f', '##unk']	a ##stro ##f ##unk
+opaque compound	bedslaves	bed slave	AAABBBBBS	linear	loc_part_whole	['▁beds', 'lav', 'es']	['beds', '##lav', '##es']	beds ##lav ##es
+opaque compound	bookmatched	book match	AAAABBBBBSS	linear	purpose	['▁book', 'matched']	['book', '##matched']	book ##matched
+opaque compound	cowbaby	cow baby	AAABBBB	linear	complement	['▁cow', 'ba', 'by']	['cow', '##ba', '##by']	cow ##ba ##by
+opaque compound	crowdsale	crowd sale	AAAAABBBB	linear	owner_emp_use	['▁crowds', 'ale']	['crowds', '##ale']	crowds ##ale
+opaque compound	cryptobubble	crypto bubble	AAAAAABBBBBB	linear	containment	['▁crypt', 'ob', 'ubble']	['crypt', '##ob', '##ubble']	crypt ##ob ##ubble
+opaque compound	cryptoslang	crypto slang	AAAAAABBBBB	linear	topical	['▁crypt', 'os', 'lan', 'g']	['crypt', '##os', '##lan', '##g']	crypt ##os ##lan ##g
+opaque compound	cryptotulips	crypto tulip	AAAAAABBBBBS	linear	attribute	['▁crypt', 'ot', 'uli', 'p', 's']	['crypt', '##ot', '##uli', '##p', '##s']	crypt ##ot ##uli ##p ##s
+opaque compound	cyberbots	cyber bot	AAAAABBBS	linear	loc_part_whole	['▁cyber', 'bot', 's']	['cyber', '##bot', '##s']	cyber ##bot ##s
+opaque compound	cyberdirective	cyber directive	AAAAABBBBBBBBB	linear	loc_part_whole	['▁cyber', 'direct', 'ive']	['cyber', '##direct', '##ive']	cyber ##direct ##ive
+opaque compound	cyberfatigue	cyber fatigue	AAAAABBBBBBB	linear	cause	['▁cyber', 'fat', 'i', 'gue']	['cyber', '##fat', '##i', '##gue']	cyber ##fat ##i ##gue
+opaque compound	cybermalfeasance	cyber malfeasance	AAAAABBBBBBBBBBB	linear	loc_part_whole	['▁cyber', 'mal', 'fe', 'as', 'ance']	['cyber', '##mal', '##fe', '##as', '##ance']	cyber ##mal ##fe ##as ##ance
+opaque compound	cyberoperative	cyber operative	AAAAABBBBBBBBB	linear	loc_part_whole	['▁cyber', 'opera', 'tive']	['cyber', '##opera', '##tive']	cyber ##opera ##tive
+opaque compound	cyberpilot	cyber pilot	AAAAABBBBB	linear	attribute	['▁cyber', 'pilot']	['cyber', '##pilot']	cyber ##pilot
+opaque compound	deathbox	death box	AAAAABBB	linear	containment	['▁death', 'box']	['death', '##box']	death ##box
+opaque compound	dinoduck	dino duck	AAAABBBB	linear	attribute	['▁', 'd', 'ino', 'd', 'uck']	['', '##d', '##ino', '##d', '##uck']	 ##d ##ino ##d ##uck
+opaque compound	dotplot	dot plot	AAABBBB	linear	containment	['▁do', 't', 'p', 'lot']	['do', '##t', '##p', '##lot']	do ##t ##p ##lot
+opaque compound	downblousing	down blouse	PPPPAAAAASSS	linear	other	['▁down', 'blo', 'us', 'ing']	['down', '##blo', '##us', '##ing']	down ##blo ##us ##ing
+opaque compound	edgelord	edge lord	AAAABBBB	linear	loc_part_whole	['▁edge', 'lor', 'd']	['edge', '##lor', '##d']	edge ##lor ##d
+opaque compound	eldergays	elder gay	AAAAABBBS	linear	attribute	['▁elder', 'gay', 's']	['elder', '##gay', '##s']	elder ##gay ##s
+opaque compound	ethnofictions	ethno fiction	AAAAABBBBBBBS	linear	topical	['▁', 'eth', 'no', 'fiction', 's']	['', '##eth', '##no', '##fiction', '##s']	 ##eth ##no ##fiction ##s
+opaque compound	ethnonavigation	ethno navigation	AAAAABBBBBBBBBB	linear	cause	['▁', 'eth', 'n', 'ona', 'vig', 'ation']	['', '##eth', '##n', '##ona', '##vig', '##ation']	 ##eth ##n ##ona ##vig ##ation
+opaque compound	facebar	face bar	AAAABBB	linear	loc_part_whole	['▁face', 'bar']	['face', '##bar']	face ##bar
+opaque compound	flashcut	flash cut	AAAAABBB	linear	attribute	['▁flash', 'cut']	['flash', '##cut']	flash ##cut
+opaque compound	forwardboding	forward bode	AAAAAAABBBBBB	linear	time	['▁forward', 'bo', 'd', 'ing']	['forward', '##bo', '##d', '##ing']	forward ##bo ##d ##ing
+opaque compound	funreach	fun reach	AAABBBBB	linear	attribute	['▁fun', 're', 'ach']	['fun', '##re', '##ach']	fun ##re ##ach
+opaque compound	gasbagging	gas bag	AAABBBSSSS	linear	containment	['▁gas', 'ba', 'gging']	['gas', '##ba', '##gging']	gas ##ba ##gging
+opaque compound	harpiedoodle	harpie doodle	AAAAAABBBBBB	linear	attribute	['▁harp', 'i', 'ed', 'ood', 'le']	['harp', '##i', '##ed', '##ood', '##le']	harp ##i ##ed ##ood ##le
+opaque compound	headtheater	head theater	AAAABBBBBBB	linear	loc_part_whole	['▁head', 'theater']	['head', '##theater']	head ##theater
+opaque compound	hellspring	hell spring	AAAABBBBBB	linear	loc_part_whole	['▁hell', 'spring']	['hell', '##spring']	hell ##spring
+opaque compound	heteromasculinity	hetero masculinity	AAAAAABBBBBBBBBBB	linear	attribute	['▁he', 'ter', 'oma', 'scu', 'lin', 'ity']	['he', '##ter', '##oma', '##scu', '##lin', '##ity']	he ##ter ##oma ##scu ##lin ##ity
+opaque compound	heteropatriarchal	hetero patriarchal	AAAAAABBBBBBBBBSS	linear	cause	['▁he', 'ter', 'op', 'a', 'tri', 'arch', 'al']	['he', '##ter', '##op', '##a', '##tri', '##arch', '##al']	he ##ter ##op ##a ##tri ##arch ##al
+opaque compound	hypebeasts	hype beast	AAAABBBBBS	linear	topical	['▁hype', 'b', 'east', 's']	['hype', '##b', '##east', '##s']	hype ##b ##east ##s
+opaque compound	junktime	junk time	AAAABBBB	linear	attribute	['▁junk', 'time']	['junk', '##time']	junk ##time
+opaque compound	kleptotheocracy	klepto theocracy	AAAAAABBBBBBBBB	linear	cause	['▁', 'kle', 'p', 'to', 'the', 'ocracy']	['', '##kle', '##p', '##to', '##the', '##ocracy']	 ##kle ##p ##to ##the ##ocracy
+opaque compound	looksmaxing	looks max	AAAAABBBSSS	linear	objective	['▁looks', 'max', 'ing']	['looks', '##max', '##ing']	looks ##max ##ing
+opaque compound	moonsaulting	moon sault	AAAABBBBBSSS	linear	loc_part_whole	['▁moon', 's', 'ault', 'ing']	['moon', '##s', '##ault', '##ing']	moon ##s ##ault ##ing
+opaque compound	nothingbuffet	nothing buffet	AAAAAAABBBBBB	linear	containment	['▁nothing', 'b', 'uff', 'et']	['nothing', '##b', '##uff', '##et']	nothing ##b ##uff ##et
+opaque compound	phallocentrist	phallo centrist	AAAAAABBBBBBBB	linear	topical	['▁', 'p', 'hall', 'o', 'cent', 'ris', 't']	['', '##p', '##hall', '##o', '##cent', '##ris', '##t']	 ##p ##hall ##o ##cent ##ris ##t
+opaque compound	piddlebugs	piddle bug	AAAAAABBBS	linear	containment	['▁', 'p', 'i', 'ddle', 'bug', 's']	['', '##p', '##i', '##ddle', '##bug', '##s']	 ##p ##i ##ddle ##bug ##s
+opaque compound	pogosnake	pogo snake	AAAABBBBB	linear	purpose	['▁', 'p', 'og', 'os', 'na', 'ke']	['', '##p', '##og', '##os', '##na', '##ke']	 ##p ##og ##os ##na ##ke
+opaque compound	prochoicelife	pro choice life	PPPAAAAAABBBB	nonlinear	attribute	['▁pro', 'choice', 'life']	['pro', '##choice', '##life']	pro ##choice ##life
+opaque compound	rhymeslingers	rhyme slinger	AAAAABBBBBBBS	linear	owner_emp_use	['▁rhyme', 's', 'linger', 's']	['rhyme', '##s', '##linger', '##s']	rhyme ##s ##linger ##s
+opaque compound	ridehail	ride hail	AAAABBBB	linear	objective	['▁ride', 'ha', 'il']	['ride', '##ha', '##il']	ride ##ha ##il
+opaque compound	shaggydoodles	shaggy doodle	AAAAAABBBBBBS	linear	attribute	['▁', 'sha', 'gg', 'y', 'd', 'ood', 'le', 's']	['', '##sha', '##gg', '##y', '##d', '##ood', '##le', '##s']	 ##sha ##gg ##y ##d ##ood ##le ##s
+opaque compound	shithole	shit hole	AAAABBBB	linear	containment	['▁', 's', 'hit', 'hole']	['', '##s', '##hit', '##hole']	 ##s ##hit ##hole
+opaque compound	solomoons	solo moon	AAAABBBBS	linear	purpose	['▁solo', 'mo', 'ons']	['solo', '##mo', '##ons']	solo ##mo ##ons
+opaque compound	walkbooks	walk book	AAAABBBBS	linear	topical	['▁walk', 'book', 's']	['walk', '##book', '##s']	walk ##book ##s
+opaque compound	wordmills	word mill	AAAABBBBS	linear	purpose	['▁word', 'mill', 's']	['word', '##mill', '##s']	word ##mill ##s
