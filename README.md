@@ -13,7 +13,7 @@ The data is in the following schema:
 * **semantic relation**: the relationship between the *bases*, annotated according to the schema from [Tratz and Hovy, 2010](https://www.aclweb.org/anthology/P10-1070/).
 
 Stay tuned for the following releases:
-- [ ] Code and data for reproducing the similarity experiments in section 3, including all BERT activations.
+- [x] Code and data for reproducing the similarity experiments in section 3, including all BERT activations and lists of *smoothies*. (February 16, 2021)
 - [ ] Code and data for reproducing the segmentation experiments in section 4.1, including models for the character LM and the news-trained BPE table.
 - [ ] Code and data for reproducing the recovery experiments in section 4.2, including candidate lists.
 
