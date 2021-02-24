@@ -14,8 +14,8 @@ The data is in the following schema:
 
 Stay tuned for the following releases:
 - [x] Code and data for reproducing the similarity experiments in section 3, including all BERT activations and lists of *smoothies*. (February 16, 2021)
-- [ ] Code and data for reproducing the segmentation experiments in section 4.1, including models for the character LM and the news-trained BPE table.
-- [ ] Code and data for reproducing the recovery experiments in section 4.2, including candidate lists.
+- [ ] Code and data for reproducing the segmentation experiments in section 4.1, including models for the character LM, ~~[the character tagger](data/paxobs_charmanteau-to-nyt.pkl) and~~ the news-trained BPE table.
+- [ ] Code and data for reproducing the recovery experiments in section 4.2~~, including [candidate](data/recovery_candidates_fasttext.tsv) [lists](data/recovery_candidates_glove840b.tsv)~~.
 
 ## Citing is Caring
 Please use the following citation when you use our data or methods:
