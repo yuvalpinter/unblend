@@ -3,7 +3,7 @@
 This is the home for code and data from the paper [**Will it Unblend?**](https://www.aclweb.org/anthology/2020.findings-emnlp.138/), Findings of EMNLP, November 2020.
 
 ## Contents
-**November 13**: We released the [complex words dataset](https://github.com/yuvalpinter/unblend/blob/main/complex_words.tsv) of 312 novel blends and compounds.
+**November 13, 2021**: We released the [complex words dataset](https://github.com/yuvalpinter/unblend/blob/main/complex_words.tsv) of 312 novel blends and compounds.
 The data is in the following schema:
 * **class**: whether the word is a blend or a compound.
 * **word**: a word first appearing in the New York Times between November 2017 and March 2019 (taken from [NYTWIT](https://github.com/yuvalpinter/nytwit), follow link for details).
@@ -15,7 +15,7 @@ The data is in the following schema:
 Stay tuned for the following releases:
 - [x] Code and data for reproducing the similarity experiments in section 3, including all BERT activations and lists of *smoothies*. (February 16, 2021)
 - [ ] Code and data for reproducing the segmentation experiments in section 4.1, including models for the character LM, ~~[the character tagger](data/paxobs_charmanteau-to-nyt.pkl) and~~ the news-trained BPE table.
-- [ ] Code and data for reproducing the recovery experiments in section 4.2 ~~, including [candidate](data/recovery_candidates_fasttext.tsv) [lists](data/recovery_candidates_glove840b.tsv)~~.
+- [x] [Code](src/ranking) and data for reproducing the recovery experiments in section 4.2, including [candidate](data/recovery_candidates_fasttext.tsv) [lists](data/recovery_candidates_glove840b.tsv). (December 2, 2021)
 
 ## Citing is Caring
 Please use the following citation when you use our data or methods:
